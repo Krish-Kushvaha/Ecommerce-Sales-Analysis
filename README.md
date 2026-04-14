@@ -19,3 +19,39 @@ I also tried a small sales forecasting experiment at the end.
 
 ---
 
+## 📊 Dataset
+
+I used the Brazilian E-Commerce dataset (Olist) from Kaggle.
+
+- Around 100k orders  
+- Data from 2016 to 2018  
+- Includes customers, orders, products, payments, etc.  
+
+After downloading, I place the CSV files inside the `data/raw/` folder.
+
+---
+
+## 🛠️ Tools Used
+
+- Python (Pandas, NumPy)  
+- SQL (MySQL)  
+- Matplotlib & Seaborn  
+- Power BI  
+- Jupyter Notebook  
+
+---
+
+## ⚙️ How I Worked (Step-by-Step)
+
+### Day 1–2: Data Cleaning
+
+Started with raw data which had missing values, incorrect formats, and duplicates.
+
+- Fixed date formats  
+- Handled null values  
+- Removed duplicates  
+- Created new columns like order value, profit, and delivery time  
+
+---
+
+
